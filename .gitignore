@@ -1,0 +1,11 @@
+.venv/
+.agent_state/
+.pytest_cache/
+__pycache__/
+*.pyc
+.env
+.uv-cache/
+pytest-cache-files-*/
+*.egg-info/
+clinical_trial_intelligence/
+
